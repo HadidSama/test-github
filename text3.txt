@@ -1,0 +1,4 @@
+text3.txt
+lorem ipsum dolor sit amet
+lorem ipsum dolor sit amet
+lorem ipsum dolor sit amet
